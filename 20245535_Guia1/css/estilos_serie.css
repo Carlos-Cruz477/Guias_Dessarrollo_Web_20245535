@@ -1,0 +1,82 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0d0d0d;
+    color: white; 
+}
+
+header {
+    background-color: black;
+    color: #e50920; 
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+
+section {
+    padding: 40px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    color: #e50920;
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+    padding-bottom: 5px;
+}
+
+
+.Descripcion{
+    text-align: center;
+}
+
+.Descripcion img {
+    margin: 20px;
+    max-width: 200px;
+}
+
+.Descripcion div {
+    text-align: center;
+    margin: 20px;
+}
+
+.Descripcion div img {
+    width: 120px;
+    margin-bottom: 10px;
+    border: 3px solid #e50920;
+}
+
+
+.Resumen p {
+    max-width: 800px;
+    margin: auto;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.Personajes div{
+    text-align: center;
+}
+
+.Personajes img {
+    width: 20%;
+    height: auto;
+    border: 2px solid #e50920;
+}
+
+.Temporadas table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Temporadas td {
+    border: 1px solid #e50920;
+    padding: 12px;
+    text-align: center;
+}
